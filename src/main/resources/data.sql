@@ -1,0 +1,11 @@
+insert into customer (name) values ('Rahul');
+insert into customer (name) values ('Arpita');
+insert into customer (name) values ('Arun');
+insert into customer (name) values ('Sunita');
+insert into customer (name) values ('Vishal');
+insert into customer (name) values ('Vaishali');
+insert into customer (name) values ('Sneha');
+insert into customer (name) values ('Om');
+insert into customer (name) values ('Mukesh');
+insert into customer (name) values ('Vedant');
+insert into customer (name) values ('Shashikala');
